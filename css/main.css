@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
 body {
     margin: 60px auto;
     width: 70%;
@@ -28,6 +30,20 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+.header, .footer, .header h3 {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+img.avatar { margin-bottom: 30px; }
+.container > hr { margin: 30px 0; }
+.container > hr.footer {margin-bottom: 15px; }
+blockquote p { font-size: 16px; line-height: 1.6em; }
+.jumbotron { margin: 80px 0; }
+.jumbotron h1 { font-size: 72px; line-height: 1; }
+.jumbotron .btn { font-size: 21px; padding: 14px 24px; }
+.marketing p { line-height: 25px; }
+.marketing p.lead { line-height: 30px; }
 footer {
     position: absolute;
     right: 0;
@@ -37,12 +53,10 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
