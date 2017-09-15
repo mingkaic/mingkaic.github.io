@@ -3,6 +3,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Merriweather', Georgia, Times; 
+    font-size: 16px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -26,7 +28,6 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
@@ -52,10 +53,6 @@ footer {
     padding: 1rem;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 ul.posts li {
     list-style: none;

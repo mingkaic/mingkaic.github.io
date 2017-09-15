@@ -8,20 +8,26 @@ permalink: /projects
 
 Type: <a href="http://videar.videar.2a97f93d.svc.dockerapp.io/home">Website</a>
 
-Status: Ongoing
+Status: July 2017 - Present
 
-Technologies: Javascript/Typescript (Angular4, Node, Express, Mongo, Chai), Docker, Java (Spring), CMUSphinx (Temporary 3rd party Speech to text)
+Technologies: 
+- Javascript/Typescript (Angular4, Node, Express, Mongo, Chai)
+- Docker, Java (Spring)
+- CMUSphinx (Temporary 3rd party Speech to text)
 
 Videar extracts and displays subtitles from audio files. 
 The user has the option to synthesize short audio clips given a subtitle and a selection of uploaded audio assets.
 
-<h3><a href="https://github.com/mingkaic/rocnnet">ROCNNet (Reactive Operations C++-based Neural Network)</a></h3>
+<h3><a href="https://github.com/mingkaic/rocnnet">ROCNNet</a></h3>
 
 Type: Library
 
-Technologies: C++ (CMake, Boost, GTest), Valgrind, Travis-CI
+Technologies: 
+- C++ (CMake, Boost, GTest)
+- Valgrind
+- Travis-CI
 
-Status: Ongoing
+August 2016 - Present
 
 Rocnnet uses graph-based automatic differentiation to create a network of tensor calculations. 
 Each series of calculations make up some perceptron or high-level machine learning construct.
@@ -31,7 +37,9 @@ Graph nodes hold intermediate values in-memory to exchange speed for memory.
 
 Type: Development tool
 
-Technologies: C++ (CMake, LLVM), Python (Theanos)
+Technologies:
+- C++ (CMake, LLVM)
+- Python (Theanos)
 
 March-April 2017
 
