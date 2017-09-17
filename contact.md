@@ -10,4 +10,4 @@ You can find me at:
 
 <a href="https://www.linkedin.com/in/ming-kai-chen-20737a97/">@LinkedIn</a>
 
-Or email me at mngkaichen@gmail.com
+Or email me at <a href="mngkaichen@gmail.com">mngkaichen@gmail.com</a>
